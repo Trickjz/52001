@@ -1,0 +1,5 @@
+input/
+├── ok1.txt → a|(b*c)
+├── ok2.txt → ((a|b)*abb)
+├── err1.txt → a**
+├── err2.txt → (|a)
